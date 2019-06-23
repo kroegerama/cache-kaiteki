@@ -1,4 +1,4 @@
-package com.kroegerama.kaiteki.caching
+package com.kroegerama.kaiteki.cache
 
 import android.content.Context
 import android.graphics.Bitmap

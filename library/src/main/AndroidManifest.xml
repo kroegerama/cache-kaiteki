@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kroegerama.kaiteki.caching">
+    package="com.kroegerama.kaiteki.cache">
 
     <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
