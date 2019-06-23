@@ -1,6 +1,7 @@
-package com.kroegerama.kaiteki.caching
+package com.kroegerama.kaiteki.caching.example
 
 import com.kroegerama.kaiteki.baseui.BaseActivity
+import com.kroegerama.kaiteki.caching.ImageMagic
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {

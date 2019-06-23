@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.kroegerama.kaiteki.caching"
+        applicationId "com.kroegerama.kaiteki.caching.example"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
