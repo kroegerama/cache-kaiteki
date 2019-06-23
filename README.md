@@ -1,2 +1,2 @@
-[![Release](https://jitpack.io/v/kroegerama/caching-kaiteki.svg)](https://jitpack.io/#kroegerama/caching-kaiteki)
-[![Build Status](https://travis-ci.org/kroegerama/caching-kaiteki.svg?branch=master)](https://travis-ci.org/kroegerama/caching-kaiteki)
+[![Release](https://jitpack.io/v/kroegerama/cache-kaiteki.svg)](https://jitpack.io/#kroegerama/cache-kaiteki)
+[![Build Status](https://travis-ci.org/kroegerama/cache-kaiteki.svg?branch=master)](https://travis-ci.org/kroegerama/cache-kaiteki)
