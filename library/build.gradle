@@ -14,7 +14,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
-        versionName "1.0.2"
+        versionName "1.0.3"
     }
 
     buildTypes {
@@ -30,7 +30,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
 
-    implementation 'androidx.core:core-ktx:1.1.0-rc02'
+    implementation 'androidx.core:core-ktx:1.1.0-rc03'
 
     api 'com.squareup.okhttp3:okhttp:3.14.2'
 
